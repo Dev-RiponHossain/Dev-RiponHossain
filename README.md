@@ -15,7 +15,7 @@
 </p>
 
 - 🌱 I’m currently learning **Laravel**  
-- 📫 How to reach me: **Dev-RiponHossain@gmail.com**  
+- 📫 How to reach me: **riponhossianmd744@gmail.com**  
 
 <p align="center"> 
   <span style="color:#06b6d4;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -35,7 +35,7 @@
   <a href="https://Dev-RiponHossain.xyz" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-111?style=flat-square&logo=google-chrome&logoColor=white&label=" alt="Website" height="28" style="border-radius:6px; margin-right:6px;">
   </a>
-  <a href="mailto:Dev-RiponHossain@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:riponhossianmd744@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&label=" alt="Email" height="28" style="border-radius:6px;">
   </a>
 </p>
@@ -52,7 +52,7 @@
 - 🔭 I’m currently working on **a cool web app using React and Laravel**  
 - 👯 I’m looking to collaborate on **open-source projects and innovative web apps**  
 - 💬 Ask me about **Web Development, JavaScript, or UI/UX Design**  
-- 📫 How to reach me: **Dev-RiponHossain@gmail.com**
+- 📫 How to reach me: **riponhossianmd744@gmail.com**
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>
@@ -146,7 +146,7 @@ I’m always open to collaborating on new projects, discussing innovative ideas,
 💡 Feel free to **clone/fork** my projects, raise **issues**, or submit **PRs** if you think something can be improved.  
 
 📩 Ask me anything [**here**](https://github.com/Dev-RiponHossain/Dev-RiponHossain/issues/new)  
-📧 Or drop me an [**email**](mailto:Dev-RiponHossain@gmail.com)
+📧 Or drop me an [**email**](mailto:riponhossianmd744@gmail.com)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Dev-RiponHossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Dev-RiponHossain" />

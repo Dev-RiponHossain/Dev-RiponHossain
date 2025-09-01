@@ -107,12 +107,12 @@
 
 | Project         | Description                     | URL                                       |
 |-----------------|---------------------------------|------------------------------------------|
-| 🚚 LogiTrack     | Logistics tracking system       | [logitrack.Dev-RiponHossain.xyz](https://logitrack.Dev-RiponHossain.xyz) |
-| 🛒 Halum Shop    | Ecommerce system                | [halum.Dev-RiponHossain.xyz](https://halum.Dev-RiponHossain.xyz) |
-| 🌟 Portfolio    | Personal portfolio website      | [Dev-RiponHossain.xyz](https://Dev-RiponHossain.xyz)     |
-| 🌦️ Weather App  | Real-time weather application  | [weather.Dev-RiponHossain.xyz](https://weather.Dev-RiponHossain.xyz) |
-| 📚 Sanda        | Chatting app (PHP, JS, jQuery) | [sanda.Dev-RiponHossain.xyz](https://sanda.Dev-RiponHossain.xyz) |
-| 📁 File Manager | Online file manager             | [cdn.Dev-RiponHossain.xyz](https://cdn.Dev-RiponHossain.xyz) |
+| 🚚 LogiTrack     | Logistics tracking system       | [logitrack.mhrsifat.xyz](https://logitrack.mhrsifat.xyz) |
+| 🛒 Halum Shop    | Ecommerce system                | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
+| 🌟 Portfolio    | Personal portfolio website      | [mhrsifat.xyz](https://mhrsifat.xyz)     |
+| 🌦️ Weather App  | Real-time weather application  | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
+| 📚 Sanda        | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz) |
+| 📁 File Manager | Online file manager             | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz) |
 
 <p align="center"> 
   <span style="color:#facc15;">━━━━━━━━━━━━━━━━━━━━</span>

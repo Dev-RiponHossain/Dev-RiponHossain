@@ -108,7 +108,7 @@
 | Project         | Description                     | URL                                       |
 |-----------------|---------------------------------|------------------------------------------|
 | 🚚 DereamLand     | Inventory Management System      | [rl.codeperth.online](https://rl.codeperth.online) |
-| 🛒 Halum Shop    | Ecommerce system                | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
+| 🛒 NGo Website    | Micro Credit Loan               |  [bl.codeperth.online](https://bl.codeperth.online) |
 | 🌟 Portfolio    | Personal portfolio website      | [mhrsifat.xyz](https://mhrsifat.xyz)     |
 | 🌦️ Weather App  | Real-time weather application  | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
 | 📚 Sanda        | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz) |

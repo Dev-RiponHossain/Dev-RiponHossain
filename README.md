@@ -109,7 +109,7 @@
 |-----------------|---------------------------------|------------------------------------------|
 | 🚚 DereamLand     | Inventory Management System      | [rl.codeperth.online](https://rl.codeperth.online) |
 | 🛒 NGo Website    | Micro Credit Loan               |  [bl.codeperth.online](https://bl.codeperth.online) |
-| 🌟 Portfolio    | Personal portfolio website      | [codeperth.online](https://bl.codeperth.online))     |
+| 🌟 Portfolio    | Personal portfolio website      | [codeperth.online](https://codeperth.online))     |
 | 🌦️ Weather App  | Real-time weather application  | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
 | 📚 Sanda        | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz) |
 | 📁 File Manager | Online file manager             | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz) |

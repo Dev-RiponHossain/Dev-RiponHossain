@@ -106,8 +106,10 @@
 
 | Project         | Description                     | URL                                       |
 |-----------------|---------------------------------|------------------------------------------|
-| 🚚 DereamLand     | Inventory Management System      | [rl.codeperth.online](https://rl.codeperth.online) |
+| EMS System         | Employee Management system      | [vue.codeperth.online](https://ve.codeperth.online)
+| 🚚 DereamLand     | Inventory Management System     | [rl.codeperth.online](https://rl.codeperth.online) |
 | 🛒 NGo Website    | Micro Credit Loan               |  [bl.codeperth.online](https://bl.codeperth.online) |
+| 🌟Car Rental      | Rent a Car                      |  [php.codeperth.online](https://php.codeperth.online)
 | 🌟 Portfolio    | Personal portfolio website      | [codeperth.online](https://codeperth.online)    |
 | 🌟 Course     | Online Course Platform      | [react.codeperth.online](https://react.codeperth.online)    |
 
